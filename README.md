@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kinghezzy
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Numpy
+- 👀 I’m interested in Data Science, Machine Learning & NLP
+- 🌱 I’m currently learning Tensorflow
 - 💞️ I’m looking to collaborate on solving real world problems through Data Science
 - 📫 How to reach me @kinghezzytobi on Twitter
 
